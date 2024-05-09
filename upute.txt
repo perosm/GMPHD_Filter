@@ -1,0 +1,6 @@
+Programski kod pokreće se preko file-a input.py ili preko komandne linije upisivanjem: ./input.py
+Nakon pokretanja programskog koda na zaslonu će se ispisati "Upišite broj simulacije: ".
+Nakon toga potrebno je upisati broj 1, 2 ili 3.
+Broj 1 predstavlja prvu simulaciju.
+Broj 2 predstavlja drugu simulaciju.
+Broj 3 predstavlja treću simulaciju.
